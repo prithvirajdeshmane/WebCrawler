@@ -29,7 +29,6 @@ cd bfs-web-crawler
 Navigate to the project directory and compile the source code:
 ```
 javac src/App.java src/BFS_WebCrawler.java -d out
-
 ```
 
 This command compiles the Java files and places the compiled classes in the out directory.
@@ -47,6 +46,7 @@ The program will prompt you to enter a URL to start crawling.
 
 1. Enter a URL: When prompted, enter a valid URL (e.g., https://www.bbc.com)
 2. View Results: The program will start crawling from the entered URL, discover all linked websites, and print them to the console.
+3. To stop, press Ctrl+C (or equivalent) in the command line interface.
 
 Example
 ```

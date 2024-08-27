@@ -21,7 +21,7 @@ A simple web crawler implemented in Java using the Breadth-First Search (BFS) al
 ### Step 1: Clone the Repository
 
 ```
-git clone https://github.com/your-username/bfs-web-crawler.git
+git clone https://github.com/prithvirajdeshmane/bfs-web-crawler.git
 cd bfs-web-crawler
 ```
 
@@ -76,4 +76,5 @@ New website found: https://www.bbc.com/news
 Contributions are welcome! Feel free to fork the repository, make improvements, and submit a pull request
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](./License) file for details.
+
